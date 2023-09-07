@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Ali Falahati
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Ali 
+last_name: Falahati
 
 # Status emoji
 status:
@@ -14,11 +14,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
+  - name: Sharif University of Technology
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -80,5 +80,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ali isn't happy
 {style="text-align: justify;"}
